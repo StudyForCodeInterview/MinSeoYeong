@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\PSstudy\Class 2\30_2343___\2343\2343\main.cpp(18,6): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  2343.vcxproj -> F:\PSstudy\Class 2\30_2343___\2343\x64\Debug\2343.exe
